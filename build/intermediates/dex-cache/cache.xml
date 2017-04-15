@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/lalli/Android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/home/lalli/AndroidStudioProjects/MyApplication/Canny/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-508c44fd541ac6297108e62129483419a7cace7f.jar" />
+    </item>
+    <item
+        jar="/home/lalli/AndroidStudioProjects/MyApplication/Canny/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/home/lalli/AndroidStudioProjects/MyApplication/Canny/app/build/intermediates/pre-dexed/debug/classes-83b5cc3dfea85c7364103bd63309a6929d6c342e.jar" />
+    </item>
+    <item
+        jar="/home/lalli/AndroidStudioProjects/MyApplication/Canny/app/build/intermediates/exploded-aar/Canny/openCVLibrary2411/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ac64d0b787771240a6adf9514861cc7e098e16b0">
+        <dex dex="/home/lalli/AndroidStudioProjects/MyApplication/Canny/app/build/intermediates/pre-dexed/debug/classes-9dc7b15441d97365b59565fdeacaae30e9925d43.jar" />
+    </item>
+    <item
+        jar="/home/lalli/AndroidStudioProjects/MyApplication/Canny/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/home/lalli/AndroidStudioProjects/MyApplication/Canny/app/build/intermediates/pre-dexed/debug/classes-e65f9d6b164e32fb2a39a5eb7b6a7108a9daa932.jar" />
+    </item>
+    <item
+        jar="/home/lalli/AndroidStudioProjects/MyApplication/Canny/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/home/lalli/AndroidStudioProjects/MyApplication/Canny/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-e03e78eeddeccccbf7ba509ae7c95d9974f13b10.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Canny</string>
+    <string name="gallary_pic">gallery</string>
+    <string name="camera_pic">camera</string>
+    <string name="heading">Welcome!</string>
+    <string name="instruction">Chose the photo selection mode from the following options</string>
+    <string name="radioButtonGallery">Chose from Gallery</string>
+    <string name="radioButtonCamera">Click here to take picture</string>
+    <string name="clickButton">Click here after selecting image</string>
+    <string name="Heading">This is the selected pic</string>
+    <string name="edgeDetectionOutput">Click here for edge detected output</string>
+
+
+</resources>
